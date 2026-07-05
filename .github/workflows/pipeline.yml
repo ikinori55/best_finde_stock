@@ -1,0 +1,53 @@
+name: stock-judge-pipeline
+
+on:
+  schedule:
+    - cron: "0 23 * * *"   # 毎朝 08:00 JST（23:00 UTC）
+  workflow_dispatch:
+    inputs:
+      force_pick:
+        description: "週次判定を無視して選定を今すぐ実行する"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      TZ: Asia/Tokyo
+      JQUANTS_API_KEY: ${{ secrets.JQUANTS_API_KEY }}
+      JQUANTS_MAIL: ${{ secrets.JQUANTS_MAIL }}
+      JQUANTS_PASSWORD: ${{ secrets.JQUANTS_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily job
+        run: |
+          if [ "${{ inputs.force_pick }}" = "true" ]; then
+            python scripts/daily_job.py --force-pick
+          else
+            python scripts/daily_job.py
+          fi
+
+      - name: Commit results
+        run: |
+          git config user.name "stock-judge-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "auto: pipeline $(date +%F)"
+          git push

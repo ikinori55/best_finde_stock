@@ -1,0 +1,6 @@
+﻿ticker,name,combined_score,technical_score,fundamental_score,sector,turnover20,gc_recent,ret20
+MO,Altria,87.5,100,75.0,Consumer Staples,610061621,True,5.0
+CYTK,Cytokinetics,86.45,75,97.9,Health Care,199661699,True,22.3
+AMP,Ameriprise Financial,83.75,100,67.5,Financials,354063320,True,10.9
+VLO,Valero Energy,77.95,100,55.9,Energy,842604531,True,2.4
+GEV,GE Vernova,77.75,90,65.5,Industrials,3360363533,True,16.1

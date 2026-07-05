@@ -1,0 +1,21 @@
+﻿ticker,name,combined_score,technical_score,fundamental_score,sector,turnover20,gc_recent,ret20,per,pbr,mcap,next_earnings
+MO,Altria,87.5,100,75.0,Consumer Staples,610061621,True,5.0,15.2,,121.42,2026-07-30
+CYTK,Cytokinetics,86.45,75,97.9,Health Care,199661699,True,22.3,,,11.74,2026-08-06
+AMP,Ameriprise Financial,83.75,100,67.5,Financials,354063320,True,10.9,12.2,7.09,43.97,2026-07-23
+VLO,Valero Energy,77.95,100,55.9,Energy,842604531,True,2.4,19.6,3.33,79.51,2026-07-30
+GEV,GE Vernova,77.75,90,65.5,Industrials,3360363533,True,16.1,32.6,21.48,299.11,2026-07-22
+DINO,HF Sinclair,76.1,80,72.2,Energy,163548958,True,-1.1,10.9,1.36,13.07,2026-07-28
+EXPD,Expeditors International,75.8,100,51.6,Industrials,231868233,True,5.6,27.1,9.68,21.92,2026-08-04
+ESNT,Essent Group Ltd.,74.9,85,64.8,Financials,66963385,True,16.1,9.2,1.06,5.98,2026-08-07
+KO,Coca-Cola Company (The),74.85,100,49.7,Consumer Staples,1722728998,True,7.5,26.5,10.77,362.01,2026-07-28
+EGP,EastGroup Properties,74.7,100,49.4,Real Estate,79741384,True,8.1,38.5,3.17,11.36,2026-07-23
+GEN,Gen Digital,74.5,85,64.0,Information Technology,178536647,True,0.6,17.0,6.11,16.07,2026-08-07
+DTM,DT Midstream,73.85,100,47.7,Energy,105670704,True,2.9,32.1,3.1,14.75,2026-07-30
+AVB,AvalonBay Communities,73.8,100,47.6,Real Estate,232619584,True,6.9,24.0,2.34,27.52,2026-07-29
+DDOG,Datadog,72.85,100,45.7,Information Technology,1177027801,True,4.0,667.6,23.23,92.68,2026-08-06
+AMH,American Homes 4 Rent,72.55,100,45.1,Real Estate,85557572,True,6.8,27.7,1.79,13.97,2026-07-31
+EG,Everest Group,72.4,75,69.8,Financials,172438370,True,17.4,7.6,0.97,14.69,2026-07-30
+ELV,Elevance Health,72.4,100,44.8,Health Care,720729429,True,7.2,17.7,2.07,90.75,2026-07-16
+UDR,"UDR, Inc.",72.2,100,44.4,Real Estate,165761067,True,9.3,28.0,4.13,15.22,2026-07-30
+OKE,Oneok,71.9,85,58.8,Energy,344441249,True,1.2,15.7,2.48,55.34,2026-08-03
+FCFS,FirstCash,71.8,90,53.6,Financials,122014159,True,0.8,27.8,4.23,9.73,2026-07-23

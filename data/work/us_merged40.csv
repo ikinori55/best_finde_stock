@@ -1,0 +1,41 @@
+﻿ticker,name,combined_score,technical_score,fundamental_score,sector,turnover20,gc_recent,ret20
+MO,Altria,87.5,100,75.0,Consumer Staples,610061621,True,5.0
+CYTK,Cytokinetics,86.45,75,97.9,Health Care,199661699,True,22.3
+AMP,Ameriprise Financial,83.75,100,67.5,Financials,354063320,True,10.9
+DUOL,Duolingo,80.1,85,75.2,Consumer Discretionary,189881069,True,17.1
+VLO,Valero Energy,77.95,100,55.9,Energy,842604531,True,2.4
+GEV,GE Vernova,77.75,90,65.5,Industrials,3360363533,True,16.1
+PM,Philip Morris International,77.05,100,54.1,Consumer Staples,974828181,True,4.5
+DINO,HF Sinclair,76.1,80,72.2,Energy,163548958,True,-1.1
+EXPD,Expeditors International,75.8,100,51.6,Industrials,231868233,True,5.6
+ESNT,Essent Group Ltd.,74.9,85,64.8,Financials,66963385,True,16.1
+KO,Coca-Cola Company (The),74.85,100,49.7,Consumer Staples,1722728998,True,7.5
+EGP,EastGroup Properties,74.7,100,49.4,Real Estate,79741384,True,8.1
+GEN,Gen Digital,74.5,85,64.0,Information Technology,178536647,True,0.6
+DTM,DT Midstream,73.85,100,47.7,Energy,105670704,True,2.9
+AVB,AvalonBay Communities,73.8,100,47.6,Real Estate,232619584,True,6.9
+EBAY,eBay Inc.,73.75,100,47.5,Consumer Discretionary,389361982,True,5.5
+DDOG,Datadog,72.85,100,45.7,Information Technology,1177027801,True,4.0
+AMH,American Homes 4 Rent,72.55,100,45.1,Real Estate,85557572,True,6.8
+EG,Everest Group,72.4,75,69.8,Financials,172438370,True,17.4
+ELV,Elevance Health,72.4,100,44.8,Health Care,720729429,True,7.2
+KHC,Kraft Heinz,72.35,100,44.7,Consumer Staples,337418447,True,13.5
+UDR,"UDR, Inc.",72.2,100,44.4,Real Estate,165761067,True,9.3
+OKE,Oneok,71.9,85,58.8,Energy,344441249,True,1.2
+FCFS,FirstCash,71.8,90,53.6,Financials,122014159,True,0.8
+VTRS,Viatris,71.75,100,43.5,Health Care,162139960,True,7.3
+GRMN,Garmin,70.7,80,61.4,Consumer Discretionary,211494662,True,1.3
+WMB,Williams Companies,70.6,100,41.2,Energy,576931619,True,2.8
+FFIV,"F5, Inc.",70.55,90,51.1,Information Technology,247175900,True,0.6
+UNP,Union Pacific Corporation,70.1,100,40.2,Industrials,730762471,True,7.7
+DBX,Dropbox,68.85,85,52.7,Information Technology,107466954,True,3.5
+KMI,Kinder Morgan,68.3,80,56.6,Energy,342135215,True,2.2
+GD,General Dynamics,67.75,80,55.5,Industrials,512988322,True,11.3
+MRK,Merck & Co.,67.75,100,35.5,Health Care,1556561432,True,13.8
+ADP,Automatic Data Processing,67.45,85,49.9,Industrials,679254369,True,7.2
+PAYX,Paychex,67.25,85,49.5,Industrials,387422572,True,8.0
+CPT,Camden Property Trust,66.8,100,33.6,Real Estate,143780427,True,8.7
+WAT,Waters Corporation,66.7,80,53.4,Health Care,356570283,True,-0.1
+EQR,Equity Residential,66.65,100,33.3,Real Estate,210630957,True,6.7
+NSC,Norfolk Southern,66.3,100,32.6,Industrials,357335304,True,5.8
+MPC,Marathon Petroleum,65.85,80,51.7,Energy,643264901,True,-0.3

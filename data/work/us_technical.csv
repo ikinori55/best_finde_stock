@@ -1,0 +1,151 @@
+﻿ticker,name,score,gc_recent,trend_aligned,rsi,ret20,pct_from_52w_high,vol_ratio_on_gc,close,turnover20,sector,index
+KHC,Kraft Heinz,100,True,True,58.2,13.5,-6.5,1.01,25.37,337418447,Consumer Staples,S&P500
+EGP,EastGroup Properties,100,True,True,64.7,8.1,0.0,1.08,211.33,79741384,Real Estate,S&P400
+SXT,Sensient Technologies,100,True,True,50.4,10.3,0.0,1.19,124.49,62410097,Materials,S&P600
+DTM,DT Midstream,100,True,True,62.3,2.9,-4.1,1.0,144.59,105670704,Energy,S&P400
+GTY,Getty Realty Corp.,100,True,True,66.4,8.5,0.0,1.01,34.34,19669493,Real Estate,S&P600
+MRK,Merck & Co.,100,True,True,65.7,13.8,0.0,1.15,129.56,1556561432,Health Care,S&P500
+UNP,Union Pacific Corporation,100,True,True,64.0,7.7,0.0,1.17,282.25,730762471,Industrials,S&P500
+JAZZ,Jazz Pharmaceuticals,100,True,True,58.0,5.4,0.0,1.07,243.47,211480101,Health Care,S&P400
+CLH,Clean Harbors,100,True,False,55.5,1.6,-7.2,0.77,291.2,143710386,Industrials,S&P400
+IRDM,Iridium Communications,100,True,True,57.0,10.1,-3.5,0.94,53.75,178028274,Communication Services,S&P600
+KO,Coca-Cola Company (The),100,True,True,60.0,7.5,0.0,0.83,84.14,1722728998,Consumer Staples,S&P500
+VLO,Valero Energy,100,True,True,58.1,2.4,-0.6,0.91,267.76,842604531,Energy,S&P500
+AVB,AvalonBay Communities,100,True,True,66.0,6.9,-1.4,0.88,193.96,232619584,Real Estate,S&P500
+VTRS,Viatris,100,True,True,55.6,7.3,-3.3,0.87,16.7,162139960,Health Care,S&P500
+MAA,Mid-America Apartment Communities,100,True,True,59.6,7.3,-3.9,0.91,142.19,151017955,Real Estate,S&P500
+KNTK,"Kinetik Holdings, Inc.",100,True,False,52.8,3.8,-6.9,1.04,47.75,56880708,Energy,S&P600
+RAMP,"LiveRamp Holdings, Inc.",100,True,True,54.0,0.9,-0.3,0.45,37.73,51466679,Information Technology,S&P600
+AAP,"Advance Auto Parts, Inc.",100,True,True,52.1,7.7,-6.0,1.08,61.53,98704505,Consumer Discretionary,S&P600
+WMB,Williams Companies,100,True,False,57.3,2.8,-7.2,1.16,73.14,576931619,Energy,S&P500
+PCRX,"Pacira BioSciences, Inc.",100,True,False,69.4,13.8,-6.7,0.87,25.39,11656636,Health Care,S&P600
+NBIX,Neurocrine Biosciences,100,True,True,66.9,5.5,0.0,1.13,174.26,195859766,Health Care,S&P400
+NSC,Norfolk Southern,100,True,True,63.1,5.8,-0.9,0.58,322.71,357335304,Industrials,S&P500
+MMI,"Marcus & Millichap, Inc.",100,True,True,61.5,9.9,-2.3,0.66,31.86,6284888,Real Estate,S&P600
+MRCY,Mercury Systems,100,True,True,57.9,13.1,0.0,0.81,126.21,95107976,Industrials,S&P600
+AMH,American Homes 4 Rent,100,True,True,63.6,6.8,-3.4,0.72,34.08,85557572,Real Estate,S&P400
+NJR,New Jersey Resources,100,True,False,68.5,7.7,-0.3,1.1,57.49,48615752,Utilities,S&P400
+MSGS,Madison Square Garden Sports Corp.,100,True,True,50.8,3.8,-2.0,1.26,395.16,127651460,Communication Services,S&P600
+AMP,Ameriprise Financial,100,True,True,70.0,10.9,-9.7,0.86,489.16,354063320,Financials,S&P500
+UDR,"UDR, Inc.",100,True,True,66.3,9.3,0.0,0.88,41.09,165761067,Real Estate,S&P500
+PM,Philip Morris International,100,True,True,53.7,4.5,-4.2,1.0,182.27,974828181,Consumer Staples,S&P500
+TWO,Two Harbors Investment Corp.,100,True,True,56.4,0.4,-9.2,0.86,12.07,24222190,Financials,S&P600
+ELV,Elevance Health,100,True,True,60.5,7.2,-1.1,0.91,417.89,720729429,Health Care,S&P500
+EQR,Equity Residential,100,True,True,66.7,6.7,0.0,0.99,69.83,210630957,Real Estate,S&P500
+EBAY,eBay Inc.,100,True,True,62.6,5.5,-3.2,0.76,114.84,389361982,Consumer Discretionary,S&P500
+HQY,HealthEquity,100,True,True,65.2,11.9,-9.6,1.17,95.31,90641114,Health Care,S&P400
+DEA,"Easterly Government Properties, Inc.",100,True,True,68.8,8.6,0.0,1.2,25.54,11256472,Real Estate,S&P600
+VIR,"Vir Biotechnology, Inc.",100,True,False,69.0,14.5,-9.5,0.89,10.04,22038436,Health Care,S&P600
+MO,Altria,100,True,True,59.5,5.0,-1.8,0.78,72.71,610061621,Consumer Staples,S&P500
+CPT,Camden Property Trust,100,True,True,60.6,8.7,0.0,0.7,117.25,143780427,Real Estate,S&P500
+EXPD,Expeditors International,100,True,True,52.5,5.6,0.0,1.12,167.57,231868233,Industrials,S&P500
+DDOG,Datadog,100,True,True,68.3,4.0,-6.2,0.94,260.36,1177027801,Information Technology,S&P500
+MATW,Matthews International Corporation,90,True,False,56.4,4.9,-5.9,3.23,26.69,10436470,Consumer Discretionary,S&P600
+CSX,CSX Corporation,90,True,True,61.2,5.3,0.0,1.48,48.89,587164021,Industrials,S&P500
+TRNO,Terreno Realty Corporation,90,True,True,55.5,5.9,0.0,4.16,67.33,74231546,Real Estate,S&P600
+TFX,Teleflex,90,True,True,57.2,4.2,-3.2,1.39,133.99,62421692,Health Care,S&P600
+GEV,GE Vernova,90,True,True,67.3,16.1,-5.3,1.48,1113.11,3360363533,Industrials,S&P500
+FCFS,FirstCash,90,True,False,53.8,0.8,-4.6,1.37,221.97,122014159,Financials,S&P400
+INVH,Invitation Homes,90,True,True,64.8,6.4,-2.3,1.46,30.53,193197583,Real Estate,S&P500
+CBU,"Community Bank System, Inc.",90,True,True,59.0,10.7,-1.2,1.75,67.61,27048235,Financials,S&P600
+MTCH,Match Group,90,True,True,68.4,10.4,-2.1,2.22,37.9,136132960,Communication Services,S&P600
+PBF,PBF Energy,90,True,False,67.7,12.4,-6.0,2.92,47.81,113522033,Energy,S&P400
+BLFS,"BioLife Solutions, Inc.",90,True,True,58.5,3.2,-2.4,4.82,28.11,29812480,Health Care,S&P600
+IRT,IRT Living,90,True,True,61.8,7.9,-0.2,2.48,17.33,57447394,Real Estate,S&P400
+STC,Stewart Information Services Corporation,90,True,True,60.4,9.4,-9.8,2.52,67.96,18298827,Financials,S&P600
+FFIV,"F5, Inc.",90,True,True,58.6,0.6,-3.8,1.66,408.14,247175900,Information Technology,S&P500
+NTST,NETSTREIT Corp.,90,True,True,66.2,10.3,0.0,12.26,21.66,62179404,Real Estate,S&P600
+VSAT,"Viasat, Inc.",90,True,True,59.6,19.3,-7.5,2.14,83.06,245322645,Information Technology,S&P600
+ESS,Essex Property Trust,85,True,True,73.2,8.3,0.0,0.66,298.33,135668604,Real Estate,S&P500
+CWK,Cushman & Wakefield plc,85,True,False,62.9,10.5,-18.7,1.11,13.99,32445144,Real Estate,S&P600
+BOX,"Box, Inc.",85,True,True,69.0,4.5,-17.3,0.86,27.89,56329710,Information Technology,S&P600
+ACHC,Acadia Healthcare,85,True,True,79.4,24.0,0.0,1.24,31.91,92599873,Health Care,S&P600
+MDU,"MDU Resources Group, Inc.",85,True,False,46.4,0.4,-8.6,1.27,20.71,34744625,Utilities,S&P600
+GPK,Graphic Packaging,85,True,True,55.1,1.4,-52.3,0.56,10.85,63643790,Materials,S&P400
+GTLS,Chart Industries,85,True,True,72.9,0.8,-0.1,0.69,208.72,293032845,Industrials,S&P400
+HALO,Halozyme,85,True,True,72.8,13.8,-2.2,0.79,79.45,133962716,Health Care,S&P400
+MXL,"MaxLinear, Inc.",85,True,True,55.2,1.9,-27.3,0.98,93.12,371042598,Information Technology,S&P600
+CTKB,"Cytek Biosciences, Inc.",85,True,False,67.1,13.3,-21.9,0.62,4.59,9692696,Health Care,S&P600
+JBHT,J.B. Hunt,85,True,True,47.2,2.1,-1.5,1.02,285.83,290756729,Industrials,S&P500
+AHCO,AdaptHealth Corp.,85,True,False,63.4,10.7,-19.6,1.15,10.76,15898059,Health Care,S&P600
+MTZ,MasTec,85,True,True,54.2,1.0,-14.6,1.02,373.43,458713021,Industrials,S&P400
+MCO,Moody's Corporation,85,True,True,70.4,9.4,-8.7,0.98,490.51,501827748,Financials,S&P500
+ESNT,Essent Group Ltd.,85,True,False,82.3,16.1,-2.4,0.64,64.85,66963385,Financials,S&P400
+KGS,"Kodiak Gas Services, Inc.",85,True,True,51.6,0.9,-10.9,0.87,67.94,146014607,Energy,S&P600
+KFY,Korn/Ferry International,85,True,False,42.1,0.3,-6.8,1.11,69.68,56245325,Industrials,S&P600
+DBX,Dropbox,85,True,True,60.5,3.5,-11.2,0.9,28.56,107466954,Information Technology,S&P400
+JBGS,JBG Smith,85,True,False,62.9,7.4,-34.1,0.9,15.47,9162808,Real Estate,S&P600
+DEI,Douglas Emmett,85,True,True,57.5,9.0,-21.0,0.78,12.51,27069353,Real Estate,S&P600
+HRB,H&R Block,85,True,True,69.7,5.5,-26.4,0.72,40.04,82371988,Consumer Discretionary,S&P400
+ITGR,Integer Holdings Corporation,85,True,True,58.8,4.7,-21.9,0.61,95.14,40505834,Health Care,S&P600
+CHE,Chemed Corp.,85,True,True,93.5,14.7,0.0,1.11,489.66,100919445,Health Care,S&P400
+EZPW,"EZCORP, Inc.",85,True,True,73.3,11.8,0.0,1.15,35.59,38483875,Financials,S&P600
+HTO,H2O America,85,True,True,86.2,11.3,0.0,1.0,62.42,28636915,Utilities,S&P600
+DUOL,Duolingo,85,True,True,51.9,17.1,-68.3,0.63,125.76,189881069,Consumer Discretionary,S&P400
+CHDN,Churchill Downs Inc.,85,True,False,57.6,5.7,-22.7,0.78,90.91,96050604,Consumer Discretionary,S&P400
+RELY,Remitly,85,True,True,84.8,20.4,-2.2,0.85,23.75,99088515,Financials,S&P600
+PPLI,People Inc.,85,True,True,72.9,10.7,0.0,1.16,46.75,42229323,Communication Services,S&P600
+PAYX,Paychex,85,True,True,64.2,8.0,-25.7,1.18,106.35,387422572,Industrials,S&P500
+RH,RH,85,True,True,56.7,10.9,-32.6,0.94,169.08,168079198,Consumer Discretionary,S&P400
+OHI,Omega Healthcare Investors,85,True,True,75.6,12.1,0.0,0.77,49.4,119001988,Real Estate,S&P400
+UNF,UniFirst Corporation,85,True,True,47.4,3.5,-0.8,0.38,273.56,70057233,Industrials,S&P600
+OKE,Oneok,85,True,False,46.4,1.2,-7.8,0.91,87.83,344441249,Energy,S&P500
+UTI,Universal Technical Institute,85,True,True,70.7,8.3,0.0,0.55,48.24,45569679,Consumer Discretionary,S&P600
+SAH,"Sonic Automotive, Inc.",85,True,True,49.7,1.0,-3.6,0.75,83.73,21612066,Consumer Discretionary,S&P600
+VRTS,"Virtus Investment Partners, Inc.",85,True,True,61.6,7.6,-24.9,1.01,151.64,18367481,Financials,S&P600
+ADP,Automatic Data Processing,85,True,True,67.6,7.2,-19.9,0.97,242.27,679254369,Industrials,S&P500
+VTR,Ventas,85,True,False,78.6,17.7,0.0,0.86,92.52,383840283,Real Estate,S&P500
+SFM,Sprouts Farmers Market,85,True,True,53.5,13.9,-47.0,1.09,89.94,191884646,Consumer Staples,S&P400
+RDN,"Radian Group, Inc.",85,True,True,85.3,12.7,0.0,0.79,37.94,49283863,Financials,S&P600
+SIRI,SiriusXM,85,True,True,86.5,8.7,0.0,0.75,30.51,187823396,Communication Services,S&P400
+GEN,Gen Digital,85,True,True,69.1,0.6,-15.5,0.7,26.67,178536647,Information Technology,S&P500
+PINS,Pinterest,85,True,True,53.1,6.8,-43.7,0.65,22.07,409019729,Communication Services,S&P400
+PARR,"Par Pacific Holdings, Inc.",85,True,False,60.0,2.3,-15.5,0.94,58.49,46862944,Energy,S&P600
+OII,"Oceaneering International, Inc.",85,True,True,44.7,1.3,-5.0,1.2,38.5,45836695,Energy,S&P600
+WERN,Werner Enterprises,85,True,True,46.5,0.4,-2.9,0.81,43.2,45326857,Industrials,S&P600
+PJT,"PJT Partners, Inc.",85,True,False,60.5,5.3,-14.6,0.98,162.99,76927455,Financials,S&P600
+PI,"Impinj, Inc.",85,True,True,60.0,2.8,-41.5,0.67,141.58,55617369,Information Technology,S&P600
+NXRT,"NexPoint Residential Trust, Inc.",85,True,True,57.4,2.3,-11.1,0.75,28.72,9113259,Real Estate,S&P600
+OUT,Outfront Media,85,True,True,74.3,6.1,-2.1,0.71,32.86,68671354,Real Estate,S&P600
+TXRH,Texas Roadhouse,85,True,True,85.5,16.9,-1.2,1.28,194.28,228731171,Consumer Discretionary,S&P400
+CPK,Chesapeake Utilities Corp.,80,True,False,58.8,4.3,-8.6,1.02,125.0,23502631,Utilities,S&P600
+WTRG,Essential Utilities,80,True,False,68.9,6.4,-4.6,1.07,39.38,83885260,Utilities,S&P400
+AM,Antero Midstream,80,True,False,65.5,5.6,-3.8,0.9,22.46,57331753,Energy,S&P400
+ADC,Agree Realty,80,True,False,65.0,8.4,-3.7,0.67,77.81,90776439,Real Estate,S&P400
+DINO,HF Sinclair,80,True,True,56.9,-1.1,-2.0,0.87,72.5,163548958,Energy,S&P400
+TR,"Tootsie Roll Industries, Inc.",80,True,False,60.5,8.5,-8.8,1.15,40.78,13514407,Consumer Staples,S&P600
+AON,Aon plc,80,True,True,62.3,13.3,-4.5,0.84,357.46,630566161,Financials,S&P500
+STRA,"Strategic Education, Inc.",80,True,False,53.1,2.4,-4.8,0.65,80.98,22432792,Consumer Discretionary,S&P600
+FCPT,"Four Corners Property Trust, Inc.",80,True,True,57.7,5.6,-1.9,0.95,25.11,25112076,Real Estate,S&P600
+NEE,NextEra Energy,80,True,False,66.8,5.2,-9.1,1.07,88.34,1034185466,Utilities,S&P500
+TDC,Teradata,80,True,True,57.9,-1.2,-8.8,0.8,34.56,111139459,Information Technology,S&P600
+EPRT,"Essential Properties Realty Trust, Inc.",80,True,False,60.7,6.1,-8.0,1.05,31.18,72031749,Real Estate,S&P600
+GRMN,Garmin,80,True,False,54.0,1.3,-9.9,0.56,240.02,211494662,Consumer Discretionary,S&P500
+ANET,Arista Networks,80,True,True,52.5,-8.2,-10.0,1.26,159.99,1346258110,Information Technology,S&P500
+WM,Waste Management,80,True,False,67.7,6.1,-5.8,1.23,230.4,552939676,Industrials,S&P500
+CHD,Church & Dwight,80,True,True,54.4,6.1,-6.0,0.85,98.6,200801951,Consumer Staples,S&P500
+OMC,Omnicom Group,80,True,False,58.1,7.8,-6.5,0.64,78.62,385392274,Communication Services,S&P500
+KMI,Kinder Morgan,80,True,False,57.2,2.2,-6.6,0.8,32.06,342135215,Energy,S&P500
+O,Realty Income,80,True,False,61.9,7.4,-3.8,0.7,63.84,409200249,Real Estate,S&P500
+GD,General Dynamics,80,True,True,61.5,11.3,0.0,0.9,373.54,512988322,Industrials,S&P500
+BMY,Bristol Myers Squibb,80,True,False,57.0,7.4,-4.8,0.79,58.13,748993837,Health Care,S&P500
+MPC,Marathon Petroleum,80,True,True,54.8,-0.3,-0.3,0.73,266.35,643264901,Energy,S&P500
+WAT,Waters Corporation,80,True,True,67.4,-0.1,-8.1,0.91,379.29,356570283,Health Care,S&P500
+APD,Air Products,75,True,False,76.4,12.0,0.0,1.74,314.19,477139694,Materials,S&P500
+CWST,"Casella Waste Systems, Inc.",75,True,True,66.7,16.0,-14.0,2.24,97.49,68785417,Industrials,S&P600
+CARG,CarGurus,75,True,False,89.8,33.0,-7.1,1.71,36.24,42425145,Communication Services,S&P600
+EFC,"Ellington Financial, Inc.",75,True,True,48.9,1.8,-1.0,2.88,13.47,19429331,Financials,S&P600
+UHT,Universal Health Realty Income Trust,75,True,True,76.9,17.6,0.0,1.98,45.82,12370280,Real Estate,S&P600
+CRVL,CorVel Corporation,75,True,True,60.6,12.0,-37.6,2.67,64.14,15597234,Health Care,S&P600
+EG,Everest Group,75,True,False,82.4,17.4,0.0,2.9,371.35,172438370,Financials,S&P500
+WEN,The Wendy's Company,75,True,True,66.8,25.5,-22.7,1.36,8.6,240889729,Consumer Discretionary,S&P600
+CTVA,Corteva,75,True,False,88.8,10.3,0.0,1.38,85.8,372205936,Materials,S&P500
+ACAD,Acadia Pharmaceuticals,75,True,True,86.5,21.2,-7.4,1.5,25.97,40167625,Health Care,S&P600
+CYTK,Cytokinetics,75,True,True,88.9,22.3,-0.9,1.9,86.49,199661699,Health Care,S&P400
+SAFT,"Safety Insurance Group, Inc.",75,True,False,75.1,13.6,-2.5,1.43,77.47,11227458,Financials,S&P600
+MSEX,Middlesex Water Company,75,True,True,82.3,10.8,-5.2,1.45,57.55,9385534,Utilities,S&P600
+CHRW,C.H. Robinson,75,True,True,48.4,5.4,-4.7,1.38,189.85,267849086,Industrials,S&P500
+CTRE,CareTrust REIT,75,True,False,86.3,10.9,-0.6,2.73,41.76,140900141,Real Estate,S&P400
+TTWO,Take-Two Interactive,75,True,True,84.8,18.2,-2.8,2.52,254.99,710653654,Communication Services,S&P500
+CRWD,CrowdStrike,75,True,True,75.8,3.8,-0.8,1.35,193.98,2377851087,Information Technology,S&P500
+RCUS,"Arcus Biosciences, Inc.",75,True,True,77.9,27.1,-2.4,2.15,30.33,46432821,Health Care,S&P600

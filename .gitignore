@@ -1,0 +1,13 @@
+# 秘密情報は絶対にコミットしない（キーはGitHub Actions Secretsへ）
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# ローカル専用設定
+.claude/settings.local.json
+
+# 実行ログ
+data/work/*.log
